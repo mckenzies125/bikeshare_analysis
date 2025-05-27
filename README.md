@@ -6,3 +6,5 @@ McKenzie Skrastins (Question 3 - Can a regression model be created to predict th
 Joseph Fleishman (Question 4 - Which time of day has the longest bike rides?)
 
 We all contributed to the data cleaning and write-up.
+
+The selection of machine learning models that were allowed to be selected from for Question 3 was limited to what was covered by the professor. So, a Random Forest model was used for the official write-up. After the class concluded, McKenzie tested a Gradient Boosted Model on the dataset, as can be seen in the directory "DIDA_325_Final_Project_Gradient_Boosted_Model.ipynb". Additionally, McKenzie's stratch-work for the original model, linear regression, can be found in the file "DIDA_325_Final_Project_LR_Model.ipynb".
